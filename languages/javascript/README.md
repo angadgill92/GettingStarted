@@ -1,4 +1,4 @@
-# My Awesome Javascript
+# Javascript
 
 Javascript is currently the most popular programming language in the world. It was created by [**Brendan Eich**](https://brendaneich.com/) as a scripting language to be run on browsers. Since then, Javascript has come a long way and can now be used for both client side and server side programming thanks . 
 
@@ -6,25 +6,24 @@ Javascript is a good language to get you started with programming since it has _
 
 ## Install and Setup your Environment
 
-### Linux
+### Linux `Ubuntu 16.04`
 
-Installation instructions for linux. Write about minimal installation required to get started with the language.
+So here's the bare minimum that you need to get started with javascript on your machine : 
 
-### MacOS
+* A Web Browser ( Yes ! The one you're using to view this page right now !). Preferably [**Chrome**](https://www.google.com/chrome/browser/desktop/index.html#) since it has better dev tools, or if you prefer [**Firefox**](https://www.mozilla.org/en-US/firefox/new/) .
+* The latest version of [**NodeJS**](https://nodejs.org), which you will find [here](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions) along with the instructions.
 
-Installation instructions for MacOS. Write about minimal installation required to get started with the language.
-
-### Windows
-
-Installation instructions for Windows. Write about minimal installation required to get started with the language.
-
-
+That's all you need to run Javascript, the next section will give you tools to write Javascript.
 
 ## Tools for working with the language
 
 ### IDEs and Editors
 
-IDEs and Editors to use for the language 
+#### Atom `text-editor`
+
+Atom is an _open-source_ text-editor which has been written entirely in Javascript. You can find it [here](https://atom.io/download/deb).
+
+If you've already installed git and would like to get down and dirty then you can go[ here](https://github.com/atom/atom/blob/master/docs/build-instructions/linux.md) and follow the instructions. 
 
 ### Other Tools
 
