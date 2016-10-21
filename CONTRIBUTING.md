@@ -12,7 +12,8 @@ All contributions are welcome. Here are the few notes before you start.
 
 Will have a directory for each language under languages directory in root. Each language will have a **README.md** file.  
 
-The name of each directory should be in lower case. To add the new README.md for your specific language copy README.md.template from root directory of the repo into your newly created language directory. 
+* The name of each directory should be in lower case.
+* To add a new README.md for your specific language copy [template.md](https://github.com/angadgill92/GettingStarted/blob/master/template.md) from root directory of the repo into your newly created language directory. 
 
 #### Writing style
 
