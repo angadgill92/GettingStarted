@@ -8,7 +8,8 @@ Python is a widely used high-level, general-purpose, interpreted, dynamic progra
 
 #### Debian/Ubuntu
 
-`sudo apt-get install python3`
+```shell
+$ sudo apt-get install python3```
 
 
 ### MacOS
