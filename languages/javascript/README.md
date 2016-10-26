@@ -6,7 +6,7 @@ Javascript is a good language to get you started with programming since it has _
 
 ## Install and Setup your Environment
 
-### Linux `Ubuntu 16.04`
+### Linux 
 
 So here's the bare minimum that you need to get started with javascript on your machine : 
 
@@ -27,13 +27,42 @@ If you've already installed git and would like to get down and dirty then you ca
 
 ### Other Tools
 
-Formatting, linting, other must have plugins for editors. Package management and dependency management tools. Debugging tools.
+#### Linters :
+
+> ##### Atom : 
+>
+>  The first linter you need to install is just called `linter` . To install it, go to your terminal and type this :
+>
+> 1. ``````
+>    $ apm install linter
+>    ``````
+>
+>    and hit return.
+>
+> 2. The second linter you'd need is `linter-js-standard` , ( Note : In order to install this you must install `linter` first ). Just switch back to your terminal and type the following and hit return: 
+>
+>    ``````
+>    $ apm install linter-js-standard
+>    ``````
+
+
+
+#### Tools 
+
+> ##### Heading 
+>
+> Content
+>
+> 
 
 ## Getting started
 
 ### Beginner
 
-##### Books
+##### Books :
+
+* [Eloquent Javascript](http://eloquentjavascript.net)
+* [Understanding ES6](https://leanpub.com/understandinges6/read)
 
 ##### Blogs and articles
 
