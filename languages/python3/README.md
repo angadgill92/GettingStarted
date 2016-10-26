@@ -65,4 +65,22 @@ Formatting, linting, other must have plugins for editors. Package management and
 
 ### Getting social
 
-Add sections for meetups, conferences and people to follow
+
+#### Conferences
+
+1. PyCon: [Website](https://in.pycon.org/)
+
+#### Online Discussion and Meetup Groups
+
+1. Bangpypers Slack: [Signup](http://bangpypers.herokuapp.com/)
+2. Bangpypers Meetup: [Meetup.com](http://www.meetup.com/BangPypers/)
+
+
+#### People to Follow
+
+1. Guido van Rossum: [Twitter](https://twitter.com/gvanrossum)
+2. Raymond Hettinger: [Twitter](https://twitter.com/raymondh)
+3. David Beazley: [Twitter](https://twitter.com/dabeaz)
+4. Brandon Rhodes: [Twitter](https://twitter.com/brandon_rhodes)
+5. Daniel Roy Greenfeld: [Twitter](https://twitter.com/pydanny)
+6. Olivier Verdier: [Twitter](https://twitter.com/OlivierVerdier)
