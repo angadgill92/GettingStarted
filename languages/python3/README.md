@@ -46,6 +46,7 @@ Formatting, linting, other must have plugins for editors. Package management and
 ##### Videos
 * Udacity-Intro to computer science - CS101 -[Link](https://www.udacity.com/course/intro-to-computer-science--cs101)
 * MIT-Introduction to computer science and programming - [Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/)
+* Sentdex Python Beginner videos: [YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M) [Website](https://pythonprogramming.net/)
 
 ##### MOOCs
 
