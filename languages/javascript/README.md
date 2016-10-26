@@ -49,11 +49,7 @@ If you've already installed git and would like to get down and dirty then you ca
 
 #### Tools 
 
-> ##### Heading 
->
-> Content
->
-> 
+>  
 
 ## Getting started
 
