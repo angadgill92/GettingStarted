@@ -8,7 +8,9 @@ Python is a widely used high-level, general-purpose, interpreted, dynamic progra
 
 #### Debian/Ubuntu
 
-`sudo apt-get install python3`
+```shell
+$ sudo apt-get install python3
+```
 
 
 ### MacOS
@@ -16,8 +18,6 @@ Python is a widely used high-level, general-purpose, interpreted, dynamic progra
 Installation instructions for MacOS. Write about minimal installation required to get started with the language.
 
 ### Windows
-
-https://www.python.org/downloads/windows/
 
 ## Tools for working with the language
 
@@ -42,7 +42,6 @@ Formatting, linting, other must have plugins for editors. Package management and
 ##### Blogs and articles
 
 ##### Videos
-
 
 ##### MOOCs
 
