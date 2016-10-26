@@ -37,6 +37,10 @@ Formatting, linting, other must have plugins for editors. Package management and
 
 ##### Books
 
+1. Automate the Boring Stuff with Python: [Link](https://automatetheboringstuff.com/)
+2. How to Think Like a Computer Scientist: [Link](http://interactivepython.org/runestone/static/thinkcspy/index.html)
+3. Byte of Python: [Link](https://python.swaroopch.com/)
+
 ##### Blogs and articles
 
 ##### Videos
