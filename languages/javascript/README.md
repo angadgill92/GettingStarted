@@ -49,11 +49,15 @@ If you've already installed git and would like to get down and dirty then you ca
 
 #### Tools 
 
+<<<<<<< HEAD
 > ##### Git and GitHub 
 >
 > [Here's](https://try.github.io/levels/1/challenges/1) a great interactive tutorial for you to dip your toes in git, and it'll only take about 15 minutes ! 
 >
 > 
+=======
+>  
+>>>>>>> f23d15111a4b3e0a24f333d3b5b075e53bae1ce1
 
 ## Getting started
 
