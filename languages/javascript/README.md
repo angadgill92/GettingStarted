@@ -49,9 +49,9 @@ If you've already installed git and would like to get down and dirty then you ca
 
 #### Tools 
 
-> ##### Heading 
+> ##### Git and GitHub 
 >
-> Content
+> [Here's](https://try.github.io/levels/1/challenges/1) a great interactive tutorial for you to dip your toes in git, and it'll only take about 15 minutes ! 
 >
 > 
 
@@ -66,7 +66,14 @@ If you've already installed git and would like to get down and dirty then you ca
 
 ##### Blogs and articles
 
+* [How the Web Works](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.ss4i44o80) by [Preethi Kasireddy](https://github.com/iam-peekay)
+* [Streams Handbook](https://github.com/substack/stream-handbook) by [substack](https://github.com/substack)
+* ​
+
 ##### Videos
+
+* [Funfunfunction's Functional Programming in Javascript Playlist](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+* [Funfunfunctions ES6 Features Playlist](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm)
 
 ##### MOOCs
 
