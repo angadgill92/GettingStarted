@@ -33,13 +33,13 @@ If you've already installed git and would like to get down and dirty then you ca
 >
 >  The first linter you need to install is just called `linter` . To install it, go to your terminal and type this :
 >
-> 1. ``````
+> ``````
 >    $ apm install linter
 >    ``````
+>  and hit return.
 >
->    and hit return.
->
-> 2. The second linter you'd need is `linter-js-standard` , ( Note : In order to install this you must install `linter` first).   Just switch back to your terminal and type the following and hit return:
+>  The second linter you'd need is `linter-js-standard` , ( Note : In order to install this you must install `linter`
+>  first).   Just switch back to your terminal and type the following and hit return:
 >
 >    ``````
 >    $ apm install linter-js-standard
