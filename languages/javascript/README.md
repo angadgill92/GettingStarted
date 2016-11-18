@@ -39,7 +39,7 @@ If you've already installed git and would like to get down and dirty then you ca
 >
 >    and hit return.
 >
-> 2. The second linter you'd need is `linter-js-standard` , ( Note : In order to install this you must install `linter` first ). Just switch back to your terminal and type the following and hit return:
+> 2. The second linter you'd need is `linter-js-standard` , ( Note : In order to install this you must install `linter` first).   Just switch back to your terminal and type the following and hit return:
 >
 >    ``````
 >    $ apm install linter-js-standard
@@ -53,8 +53,8 @@ If you've already installed git and would like to get down and dirty then you ca
 >
 > [Here's](https://try.github.io/levels/1/challenges/1) a great interactive tutorial for you to dip your toes in git, and it'll only take about 15 minutes !
 >
+> 
 >
->  
 ## Getting started
 
 ### Beginner
