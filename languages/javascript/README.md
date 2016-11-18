@@ -73,7 +73,7 @@ If you've already installed git and would like to get down and dirty then you ca
 ##### Videos
 
 * [Funfunfunction's Functional Programming in Javascript Playlist](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-* [Funfunfunctions ES6 Features Playlist](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm)
+* [Funfunfunction's ES6 Features Playlist](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHJppaRLrqjeTPnCH6vw-sm)
 
 ##### MOOCs
 
