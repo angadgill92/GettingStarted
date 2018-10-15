@@ -1,6 +1,6 @@
 # Javascript
 
-Javascript is currently the most popular programming language in the world. It was created by [**Brendan Eich**](https://brendaneich.com/) as a scripting language to be run on browsers. Since then, Javascript has come a long way and can now be used for both client side and server side programming thanks .
+Javascript is currently the most popular programming language in the world. It was created by [**Brendan Eich**](https://brendaneich.com/) as a scripting language to be run on browsers. Since then, Javascript has come a long way and can now be used for both client side and server side programming.
 
 Javascript is a good language to get you started with programming since it has _very few restrictions_ as to what you can and can't do with it, but this _freedom_ can also sometimes come back to bite you if you get too careless. That being said, we hope you have fun learning. **Good Luck !**   
 
