@@ -25,6 +25,12 @@ Atom is an _open-source_ text-editor which has been written entirely in Javascri
 
 If you've already installed git and would like to get down and dirty then you can go[ here](https://github.com/atom/atom/blob/master/docs/build-instructions/linux.md) and follow the instructions.
 
+#### Visual Studio Code `text-editor`
+
+VS Code is another _great_ editor, created by Microsoft. It is built on the same framework that Atom uses (electron) but is snappier than Atom, and handles large text files without breaking a sweat. It also has a better terminal integration. Head over to the [docs](https://code.visualstudio.com/docs) for more information. Installing packages is fairly simple here, since VS Code will suggest packages to install based on the type of file you have open.
+
+> **Aside:** At the end of the day, choice of editor is a personal preference. We have added VS Code and Atom because they have been written in Javascript or languages that transpile/compile to Javascript and have better support for JS than anything else out there. Choose whatever editor makes you more productive, and lets you focus on the work at hand.
+
 ### Other Tools
 
 #### Linters :
@@ -44,8 +50,6 @@ If you've already installed git and would like to get down and dirty then you ca
 >    ``````
 >    $ apm install linter-js-standard
 >    ``````
-
-
 
 #### Tools
 
